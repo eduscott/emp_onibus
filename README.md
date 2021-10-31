@@ -1,6 +1,6 @@
 #emp_onibus
 
-Emprego de motorista diferenciado para a sua cidade.
+Emprego de motorista de ônibus.
 
 Diferenciais deste emprego:
 
