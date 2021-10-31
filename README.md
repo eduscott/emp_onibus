@@ -4,7 +4,7 @@ Emprego de motorista diferenciado para a sua cidade.
 
 Diferenciais deste emprego:
 
-→ Ao pegar o emprego, você veste um uniforme e um ônibus é spawnado para você;
+→ Ao pegar o emprego, você veste um uniforme e um ônibus é spawnado;
 
 → Rota diferenciada;
 
